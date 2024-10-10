@@ -1,6 +1,6 @@
 import { useState, useRef } from 'react';
 import './App.css';
-import { muzikListesi } from '../components/data';
+import { muzikListesi } from '../public/components/data';
 
 function App() {
   const [currentTrack, setCurrentTrack] = useState(null);
