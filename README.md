@@ -4,7 +4,7 @@
 
 PlayerX, müzik dinleme deneyiminizi geliştiren modern ve kullanıcı dostu bir müzik çalar uygulamasıdır. Şarkı koleksiyonunuzu kolayca yönetebilir, dinlemek istediğiniz şarkılara hızlıca erişebilir ve müzik keyfinizi artırabilirsiniz.
 
-## Özellikler
+## Üzerinde halen devam ettiklerim : 
 
 - **Kullanıcı Dostu Arayüz**: Modern ve sezgisel bir tasarım ile müzik dinleme deneyiminizi geliştirin.
 - **Kolay Erişim**: Şarkılarınızı kolayca bulup dinleyebilirsiniz.
