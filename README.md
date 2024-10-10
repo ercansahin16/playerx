@@ -6,11 +6,11 @@ PlayerX, müzik dinleme deneyiminizi geliştiren modern ve kullanıcı dostu bir
 
 ## Üzerinde halen devam ettiklerim : 
 
-- **Kullanıcı Dostu Arayüz**: Modern ve sezgisel bir tasarım ile müzik dinleme deneyiminizi geliştirin.
+- **Kullanıcı Dostu Arayüz**: Modern ve sezgisel bir tasarım ile müzik dinleme deneyiminizi geliştirin.(✓)
 - **Kolay Erişim**: Şarkılarınızı kolayca bulup dinleyebilirsiniz.
 - **Müzik Kütüphanesi**: Yerel müzik dosyalarınızı yükleyin ve dinleyin.
 - **Çalma Listeleri**: Favori şarkılarınızı bir araya getirerek çalma listeleri oluşturun.
-- **Responsive Tasarım**: Her cihazda mükemmel görünüm ve kullanıcı deneyimi.
+- **Responsive Tasarım**: Her cihazda mükemmel görünüm ve kullanıcı deneyimi. (✓)
 
 ## Demo
 
